@@ -1,0 +1,20 @@
+nwrfcsdk/
+.opencode/
+.env
+sdd
+opencode.json
+tests/
+.venv/
+dev_rfc.log
+
+# Python/build/cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+
+# Logs
+*.log
+venv/
